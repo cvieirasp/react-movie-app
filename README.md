@@ -50,8 +50,8 @@ Siga estas etapas para configurar o projeto localmente na sua máquina:
 **Clone o Repositório**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/moodflix.git
-cd moodflix
+git clone https://github.com/cvieirasp/react-movie-app.git
+cd react-movie-app
 ```
 
 **Instalação**
